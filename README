@@ -1,0 +1,5 @@
+Using go aws sdk against local dynamodb instance
+
+- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Tools.DynamoDBLocal.html
+- https://github.com/aws/aws-sdk-go
+- https://godoc.org/github.com/aws/aws-sdk-go/service/dynamodb
